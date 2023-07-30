@@ -1,2 +1,2 @@
-print('Hello World Arko')
+print('Hello World')
 
