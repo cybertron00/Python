@@ -1,4 +1,3 @@
-copyright @Arko Banerjee
 ''' 
 We need to do following:
 1. init a prev and curr pointer
